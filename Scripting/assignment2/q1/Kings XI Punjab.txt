@@ -1,0 +1,110 @@
+Team:Kings XI Punjab
+
+Player 1
+Name: Jasprit Bumrah
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 2
+Name: Suresh Raina
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 3
+Name: Rashid Patel
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 4
+Name: Murali Vijay
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 5
+Name: Ravichandran Ashwin
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 6
+Name: David Johnson
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player 7
+Name: Rishabh Pant
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player 8
+Name: Carlos Brathwaite
+Country: West Indies
+Ability: All-Rounder
+Fees: 600000
+
+Player 9
+Name: Andile Phehlukwayo
+Country: South Africa
+Ability: All-Rounder
+Fees: 300000
+
+Player 10
+Name: Sourav Ganguly
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player 11
+Name: Mark Boucher
+Country: South Africa
+Ability: Wicket Keeper
+Fees: 600000
+
+Player 12
+Name: Abhimanyu Mithun
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 13
+Name: Krunal Pandya
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 14
+Name: Ajay Jadeja
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 15
+Name: KL Rahul
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 16
+Name: Ravindra Jadeja
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player 17
+Name: Marcus Stoinis
+Country: Australia
+Ability: Bowler
+Fees: 50000
+
+Player 18
+Name: Mohammad Amir
+Country: Pakistan
+Ability: Bowler
+Fees: 600000
+

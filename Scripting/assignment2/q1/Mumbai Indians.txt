@@ -1,0 +1,110 @@
+Team:Mumbai Indians
+
+Player 1
+Name: Bhuvneshwar Kumar
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 2
+Name: Cheteshwar Pujara
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 3
+Name: Piyush Chawla
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 4
+Name: Pankaj Singh
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 5
+Name: Zaheer Khan
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 6
+Name: Asghar Afghan
+Country: Afghanistan
+Ability: Batsman
+Fees: 300000
+
+Player 7
+Name: Vijay Shankar
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player 8
+Name: Aashish Kapoor
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player 9
+Name: Krunal Pandya
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player 10
+Name: Ashton Agar
+Country: Australia
+Ability: All-Rounder
+Fees: 100000
+
+Player 11
+Name: Chris Gayle
+Country: West Indies
+Ability: All-Rounder
+Fees: 500000
+
+Player 12
+Name: Mitchell Santner
+Country: New Zealand
+Ability: All-Rounder
+Fees: 600000
+
+Player 13
+Name: Hanuma Vihari
+Country: India
+Ability: Wicket Keeper
+Fees: 100000
+
+Player 14
+Name: Kuldeep Yadav
+Country: India
+Ability: Bowler
+Fees: 700000
+
+Player 15
+Name: M. Venkataramana
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 16
+Name: Gautam Gambhir
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 17
+Name: Pragyan Ojha
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 18
+Name: Rahul Dravid
+Country: India
+Ability: Bowler
+Fees: 600000
+

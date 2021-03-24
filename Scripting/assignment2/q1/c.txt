@@ -1,0 +1,15 @@
+overseas:4:7
+bowlers:4:6
+batsmen:5:7
+wicketkeepers:1:2
+allrounders:2:4
+teams:8
+team_names:
+Chennai Super Kings
+Delhi Capitals
+Kings XI Punjab
+Kolkata Knight Riders
+Mumbai Indians
+Rajasthan Royals
+Royal Challengers Bangalore
+Sunrisers Hyderabad

@@ -1,0 +1,110 @@
+Team:Royal Challengers Bangalore
+
+Player 1
+Name: Rohit Sharma
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 2
+Name: Karn Sharma
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 3
+Name: Manish Pandey
+Country: India
+Ability: Batsman
+Fees: 300000
+
+Player 4
+Name: Naman Ojha
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 5
+Name: MS Dhoni
+Country: India
+Ability: Batsman
+Fees: 200000
+
+Player 6
+Name: Woorkeri Raman
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 7
+Name: Jonny Bairstow
+Country: England
+Ability: Batsman
+Fees: 300000
+
+Player 8
+Name: Aqib Ilyas
+Country: Oman
+Ability: Batsman
+Fees: 50000
+
+Player 9
+Name: Muhammad Usman
+Country: United Arab Emirates
+Ability: Batsman
+Fees: 300000
+
+Player 10
+Name: Tinu Yohannan
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player 11
+Name: Abhinav Mukund
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player 12
+Name: Naman Ojha
+Country: India
+Ability: Wicket Keeper
+Fees: 600000
+
+Player 13
+Name: Vijay Dahiya
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player 14
+Name: Prithvi Shaw
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player 15
+Name: Nilesh Kulkarni
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 16
+Name: Parthiv Patel
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 17
+Name: Dawlat Zadran
+Country: Afghanistan
+Ability: Bowler
+Fees: 50000
+
+Player 18
+Name: Pieter Seelaar
+Country: Netherlands
+Ability: Bowler
+Fees: 500000
+

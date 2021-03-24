@@ -1,0 +1,110 @@
+Team:Kolkata Knight Riders
+
+Player 1
+Name: Karun Nair
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 2
+Name: Rishabh Pant
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 3
+Name: Sanjay Manjrekar
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 4
+Name: Irfan Pathan
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 5
+Name: Kuldeep Yadav
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 6
+Name: Mohammad Kaif
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 7
+Name: Shiv Sunder Das
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player 8
+Name: Iqbal Siddiqui
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player 9
+Name: Rohit Sharma
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player 10
+Name: Praveen Kumar
+Country: India
+Ability: Wicket Keeper
+Fees: 600000
+
+Player 11
+Name: AB de Villiers
+Country: South Africa
+Ability: Wicket Keeper
+Fees: 700000
+
+Player 12
+Name: Bhuvneshwar Kumar
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 13
+Name: Mohammed Shami
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player 14
+Name: Harbhajan Singh
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 15
+Name: Gursharan Singh
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player 16
+Name: Nathan Coulter-Nile
+Country: Australia
+Ability: Bowler
+Fees: 400000
+
+Player 17
+Name: Rohan Mustafa
+Country: United Arab Emirates
+Ability: Bowler
+Fees: 400000
+
+Player 18
+Name: Akila Dananjaya
+Country: Sri Lanka
+Ability: Bowler
+Fees: 600000
+

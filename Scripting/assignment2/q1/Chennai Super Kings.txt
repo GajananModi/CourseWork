@@ -1,0 +1,110 @@
+Team:Chennai Super Kings
+
+Player 1
+Name: Nayan Mongia
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 2
+Name: Paras Mhambrey
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 3
+Name: Virat Kohli
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 4
+Name: Sunil Joshi
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 5
+Name: Yuvraj Singh
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 6
+Name: MSK Prasad
+Country: India
+Ability: All-Rounder
+Fees: 100000
+
+Player 7
+Name: Hardik Pandya
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player 8
+Name: Ajay Sharma
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player 9
+Name: Mark Adair
+Country: Ireland
+Ability: All-Rounder
+Fees: 200000
+
+Player 10
+Name: Chris Jordan
+Country: England
+Ability: All-Rounder
+Fees: 400000
+
+Player 11
+Name: Rishabh Pant
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player 12
+Name: Jasprit Bumrah
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 13
+Name: Venkatapathy Raju
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player 14
+Name: Virender Sehwag
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player 15
+Name: Ajit Agarkar
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player 16
+Name: Imran Tahir
+Country: South Africa
+Ability: Bowler
+Fees: 600000
+
+Player 17
+Name: Liam Plunkett
+Country: England
+Ability: Bowler
+Fees: 700000
+
+Player 18
+Name: Chris Mpofu
+Country: Zimbabwe
+Ability: Bowler
+Fees: 200000
+

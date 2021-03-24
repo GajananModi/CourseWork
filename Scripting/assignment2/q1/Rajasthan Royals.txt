@@ -1,0 +1,110 @@
+Team:Rajasthan Royals
+
+Player 1
+Name: Wasim Jaffer
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 2
+Name: Dodda Ganesh
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 3
+Name: Vinay Kumar
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 4
+Name: Hrishikesh Kanitkar
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 5
+Name: Saba Karim
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 6
+Name: Hardik Pandya
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player 7
+Name: Amit Mishra
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player 8
+Name: Rashid Khan
+Country: Afghanistan
+Ability: All-Rounder
+Fees: 600000
+
+Player 9
+Name: Wanindu Hasaranga
+Country: Sri Lanka
+Ability: All-Rounder
+Fees: 100000
+
+Player 10
+Name: Tim Southee
+Country: New Zealand
+Ability: All-Rounder
+Fees: 200000
+
+Player 11
+Name: Sanju Samson
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player 12
+Name: Deep Dasgupta
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 13
+Name: Jayant Yadav
+Country: India
+Ability: Bowler
+Fees: 600000
+
+Player 14
+Name: Pravin Amre
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 15
+Name: Ravindra Jadeja
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player 16
+Name: Yuzvendra Chahal
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 17
+Name: Tabraiz Shamsi
+Country: South Africa
+Ability: Bowler
+Fees: 700000
+
+Player 18
+Name: Mujeeb Ur Rahman
+Country: Afghanistan
+Ability: Bowler
+Fees: 800000
+

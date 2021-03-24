@@ -1,0 +1,110 @@
+Team:Sunrisers Hyderabad
+
+Player 1
+Name: Ajinkya Rahane
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 2
+Name: Sadagoppan Ramesh
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 3
+Name: Vijay Bharadwaj
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 4
+Name: Vikram Rathour
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 5
+Name: Wriddhiman Saha
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 6
+Name: Umesh Yadav
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 7
+Name: Hamilton Masakadza
+Country: Zimbabwe
+Ability: Batsman
+Fees: 500000
+
+Player 8
+Name: Reeza Hendricks
+Country: South Africa
+Ability: Batsman
+Fees: 700000
+
+Player 9
+Name: Nikhil Chopra
+Country: India
+Ability: All-Rounder
+Fees: 400000
+
+Player 10
+Name: Virat Kohli
+Country: India
+Ability: All-Rounder
+Fees: 700000
+
+Player 11
+Name: Kane Williamson
+Country: New Zealand
+Ability: All-Rounder
+Fees: 600000
+
+Player 12
+Name: Sabbir Rahman
+Country: Bangladesh
+Ability: All-Rounder
+Fees: 200000
+
+Player 13
+Name: Tamoor Sajjad
+Country: Qatar
+Ability: All-Rounder
+Fees: 300000
+
+Player 14
+Name: Parthiv Patel
+Country: India
+Ability: Wicket Keeper
+Fees: 500000
+
+Player 15
+Name: S. Sreesanth
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player 16
+Name: Rajesh Chauhan
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player 17
+Name: Hardik Pandya
+Country: India
+Ability: Bowler
+Fees: 300000
+
+Player 18
+Name: Sameer Dighe
+Country: India
+Ability: Bowler
+Fees: 100000
+

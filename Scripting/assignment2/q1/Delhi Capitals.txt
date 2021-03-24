@@ -1,0 +1,110 @@
+Team:Delhi Capitals
+
+Player 1
+Name: Mayank Agarwal
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 2
+Name: Robin Singh
+Country: India
+Ability: Batsman
+Fees: 600000
+
+Player 3
+Name: Sanjay Bangar
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 4
+Name: Anil Kumble
+Country: India
+Ability: Batsman
+Fees: 400000
+
+Player 5
+Name: Salil Ankola
+Country: India
+Ability: Batsman
+Fees: 100000
+
+Player 6
+Name: Vivek Razdan
+Country: India
+Ability: Batsman
+Fees: 500000
+
+Player 7
+Name: Hazratullah Zazai
+Country: Afghanistan
+Ability: Batsman
+Fees: 800000
+
+Player 8
+Name: Thisara Perera
+Country: Sri Lanka
+Ability: Batsman
+Fees: 400000
+
+Player 9
+Name: Debashish Mohanty
+Country: India
+Ability: All-Rounder
+Fees: 500000
+
+Player 10
+Name: Stuart Binny
+Country: India
+Ability: All-Rounder
+Fees: 600000
+
+Player 11
+Name: Moeen Ali
+Country: England
+Ability: All-Rounder
+Fees: 300000
+
+Player 12
+Name: Karan KC
+Country: Nepal
+Ability: All-Rounder
+Fees: 200000
+
+Player 13
+Name: Hamilton Masakadza
+Country: Zimbabwe
+Ability: All-Rounder
+Fees: 300000
+
+Player 14
+Name: Dinesh Karthik
+Country: India
+Ability: Wicket Keeper
+Fees: 700000
+
+Player 15
+Name: Devang Gandhi
+Country: India
+Ability: Bowler
+Fees: 500000
+
+Player 16
+Name: Abey Kuruvilla
+Country: India
+Ability: Bowler
+Fees: 400000
+
+Player 17
+Name: Lakshmipathy Balaji
+Country: India
+Ability: Bowler
+Fees: 100000
+
+Player 18
+Name: Murali Kartik
+Country: India
+Ability: Bowler
+Fees: 400000
+
