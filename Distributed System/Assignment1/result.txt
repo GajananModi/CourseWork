@@ -1,0 +1,22 @@
+
+Test Case 1
+Seg Fault
+[gsmpdi-Inspiron-5593:12735] 2019201049_1.cpp 2019201049_2.cpp a.out q1.sh q2.sh README.md result.txt Test_Cases An error occurred in MPI_Recv [gsmpdi-Inspiron-5593:12735] 2019201049_1.cpp 2019201049_2.cpp a.out q1.sh q2.sh README.md result.txt Test_Cases reported by process [1834680321,0] [gsmpdi-Inspiron-5593:12735] 2019201049_1.cpp 2019201049_2.cpp a.out q1.sh q2.sh README.md result.txt Test_Cases on communicator MPI_COMM_WORLD [gsmpdi-Inspiron-5593:12735] 2019201049_1.cpp 2019201049_2.cpp a.out q1.sh q2.sh README.md result.txt Test_Cases MPI_ERR_COUNT: invalid count argument [gsmpdi-Inspiron-5593:12735] 2019201049_1.cpp 2019201049_2.cpp a.out q1.sh q2.sh README.md result.txt Test_Cases MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort, [gsmpdi-Inspiron-5593:12735] 2019201049_1.cpp 2019201049_2.cpp a.out q1.sh q2.sh README.md result.txt Test_Cases and potentially your MPI job)
+
+Test Case 2
+AC
+Quicksort 10000 ints on 5 procs: 0.000495 secs
+
+Test Case 3
+AC
+Quicksort 100000 ints on 5 procs: 0.005736 secs
+
+Test Case 4
+AC
+Quicksort 1000000 ints on 5 procs: 0.105631 secs
+
+Test Case 5
+AC
+Quicksort 1000000 ints on 5 procs: 0.096252 secs
+
+Final Score = 4
